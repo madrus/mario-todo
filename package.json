@@ -1,0 +1,11 @@
+{
+  "name": "mario-todo",
+  "version": "0.0.1",
+  "description": "Marionette Boilerplate of Ajaxray",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madrus",
+  "license": "MIT"
+}
